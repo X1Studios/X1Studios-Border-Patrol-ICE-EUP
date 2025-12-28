@@ -1,0 +1,8 @@
+Border Patrol & ICE EUP Pack - X1Studios (SheriffX1)
+
+This Clothing is Addon
+
+1) Drag and drop file 'x1borderice' into resources.
+2) Start 'x1borderice' in server.cfg
+3) Restart your server.
+4) Enjoy.
